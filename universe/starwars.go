@@ -3,8 +3,8 @@ package universe
 import (
 	_ "embed"
 
-	"CodingGhost.de/nameforge/common"
-	"CodingGhost.de/nameforge/globals"
+	"github.com/MrDiver/nameforge/common"
+	"github.com/MrDiver/nameforge/globals"
 )
 
 var (

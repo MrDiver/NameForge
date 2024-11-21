@@ -1,12 +1,12 @@
 package nameforge
 
 import (
-	"CodingGhost.de/nameforge/common"
-	formatter "CodingGhost.de/nameforge/format"
-	"CodingGhost.de/nameforge/globals"
-	"CodingGhost.de/nameforge/language"
-	"CodingGhost.de/nameforge/universe"
 	_ "embed"
+	"github.com/MrDiver/nameforge/common"
+	formatter "github.com/MrDiver/nameforge/format"
+	"github.com/MrDiver/nameforge/globals"
+	"github.com/MrDiver/nameforge/language"
+	"github.com/MrDiver/nameforge/universe"
 	"strings"
 )
 

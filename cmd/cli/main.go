@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	forge "CodingGhost.de/nameforge"
+	forge "github.com/MrDiver/nameforge"
 	"github.com/charmbracelet/lipgloss"
 )
 

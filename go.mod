@@ -1,4 +1,4 @@
-module CodingGhost.de/nameforge
+module github.com/MrDiver/nameforge
 
 go 1.23.3
 
